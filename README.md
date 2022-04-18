@@ -3,7 +3,8 @@
 Configuration of Lambda with API-Gateway
 
 Create Lambda Function
-![Lambda Create](https://user-images.githubusercontent.com/6191308/163862836-7586e830-67b6-496d-b4e9-d723f714ba72.png)
+![Lambda Create](https://user-images.githubusercontent.com/6191308/163867008-ccb2a421-dc48-42a2-9ab3-ce73e4c85487.png)
+
 
 Upload Lambda Function
 ![Lambda-function-upload](https://user-images.githubusercontent.com/6191308/163866686-3a348d58-3d79-49a2-815a-a69df7022352.png)
